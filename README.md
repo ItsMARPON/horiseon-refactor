@@ -22,18 +22,28 @@ Website
 <a href="https://itsmarpon.github.io/horiseon-refactor/">Horiseon</a>
 
 
-Images
-<ul>
+Images utilized
 
-    <li><a href="./assets/images/brand-awareness.png">Brand Awareness</a></li>
-    <li><a href="./assets/images/cost-management.png">Cost Management</a></li>
-    <li><a href="./assets/images/digital-marketing-meeting.jpg">Digital Marketing Meeting</a></li>
-    <li><a href="./assets/images/lead-generation.png">Lead Generation</a></li>
-    <li><a href="./assets/images/online-reputation-management.jpg">Brand Awareness</a></li>
-    <li><a href="./assets/images/search-engine-optimization.jpg">Search Engine Optimization</a></li>
-    <li><a href="./assets/images/social-media-marketing.jpg">Social Media Marketing</a></li>
+Image 1
+    <a href="./assets/images/brand-awareness.png">Brand Awareness</a>
 
-</ul>
+Image 2
+    <a href="./assets/images/cost-management.png">Cost Management</a>
+
+Image 3
+    <a href="./assets/images/digital-marketing-meeting.jpg">Digital Marketing Meeting</a>
+    
+Image 4
+<a href="./assets/images/lead-generation.png">Lead Generation</a>
+    
+Image 5
+<a href="./assets/images/online-reputation-management.jpg">Brand Awareness</a>
+
+Image 6
+<a href="./assets/images/search-engine-optimization.jpg">Search Engine Optimization</a>
+
+Image 7
+<a href="./assets/images/social-media-marketing.jpg">Social Media Marketing</a>
 
 ## Credits
 
