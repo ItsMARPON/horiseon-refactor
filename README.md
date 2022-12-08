@@ -21,14 +21,17 @@ The following links are the images used in the website.
 Website
 <a href="https://itsmarpon.github.io/horiseon-refactor/">Horiseon</a>
 
+
 Images
-<a href="./assets/images/brand-awareness.png">Brand Awareness</a>
-<a href="./assets/images/cost-management.png">Cost Management</a>
-<a href="./assets/images/digital-marketing-meeting.jpg">Digital Marketing Meeting</a>
-<a href="./assets/images/lead-generation.png">Lead Generation</a>
-<a href="./assets/images/online-reputation-management.jpg">Brand Awareness</a>
-<a href="./assets/images/search-engine-optimization.jpg">Search Engine Optimization</a>
-<a href="./assets/images/social-media-marketing.jpg">Social Media Marketing</a>
+<ul>
+
+    <li><a href="./assets/images/brand-awareness.png">Brand Awareness</a></li>
+    <li><a href="./assets/images/cost-management.png">Cost Management</a></li>
+    <li><a href="./assets/images/digital-marketing-meeting.jpg">Digital Marketing Meeting</a></li>
+    <li><a href="./assets/images/lead-generation.png">Lead Generation</a></li>
+    <li><a href="./assets/images/online-reputation-management.jpg">Brand Awareness</a></li>
+    <li><a href="./assets/images/search-engine-optimization.jpg">Search Engine Optimization</a></li>
+    <li><a href="./assets/images/social-media-marketing.jpg">Social Media Marketing</a></li>
 
 ## Credits
 
