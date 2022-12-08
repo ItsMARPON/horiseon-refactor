@@ -33,6 +33,8 @@ Images
     <li><a href="./assets/images/search-engine-optimization.jpg">Search Engine Optimization</a></li>
     <li><a href="./assets/images/social-media-marketing.jpg">Social Media Marketing</a></li>
 
+</ul>
+
 ## Credits
 
 Developer code source
