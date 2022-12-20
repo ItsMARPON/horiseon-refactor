@@ -22,6 +22,9 @@ Website
 <a href="https://itsmarpon.github.io/horiseon-refactor/">Horiseon</a>
 
 
+![alt text](./assets/images/horiseonScreenshot.png)
+
+
 Images utilized
 
 Image 1
